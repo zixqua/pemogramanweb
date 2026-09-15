@@ -1,0 +1,73 @@
+.kotakpertama {
+  display: flex;
+  gap: 20px;
+  padding: 5px;
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  h2.namaatas {
+    color: #00366d;
+  }
+}
+
+img.profile {
+  height: 130px;
+}
+
+.kotakkedua {
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  h4.titlesatu {
+    color: #00366d;
+    border-bottom: 1px solid #00366d;
+  }
+}
+
+.kotakketiga {
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  h4.pengalaman {
+    color: #00366d;
+    border-bottom: 1px solid #00366d;
+  }
+}
+
+.kotakkeempat {
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  h4.pendidikan {
+    color: #00366d;
+    border-bottom: 1px solid #00366d;
+  }
+}
+
+.kotakkelima {
+  display: flex;
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  .tekskelima {
+    img {
+      float: left;
+      padding-left: 5px;
+      height: 100px;
+    }
+  }
+  h4.kemampuan {
+    color: #00366d;
+    border-bottom: 1px solid #00366d;
+  }
+}
+
+.kotakkeenam {
+  width: 50%;
+  margin: 0 auto;
+  align-items: center;
+  h4.tambahan {
+    color: #00366d;
+    border-bottom: 1px solid #00366d;
+  }
+}
