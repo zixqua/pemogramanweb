@@ -1,0 +1,41 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1,6;
+    color: #1A252c;
+    background-color: #defff8;
+}
+
+.nama {
+    padding: 15px 0;
+}
+
+table {
+    background-color: #F4F7F6;
+    margin: auto auto;
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+th,td {
+    border: 1px solid;
+    padding: 8px;
+}
+
+th {
+    background-color: #008080;
+    color: white;
+}
+
+.total {
+    text-align: right;
+    font-weight: bold;
+}
+
+.totalharga {
+    font-weight: bold;
+}
+
+.nomor1,.nomor2,.nomor3 {
+    text-align: center;
+}
