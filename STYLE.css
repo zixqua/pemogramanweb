@@ -321,6 +321,15 @@ font-size: 1.05rem;
     color: var(--secondary-color);
     transition: var(--transition-fast);
 }
+/* Efek highlight saat inout diklik/fokus */
+.form-group input:focus,
+.form-group select:focus,
+.form-group textarea:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(0, 128, 128, 0.15);
+}
+
 
 /* Penataan radio button & checkbox */
 .radio-group,
